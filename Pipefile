@@ -17,14 +17,10 @@ pipeline {
                 java sunday
                 }
             }
-        }
-
 
         stage ('install Stage') {
             steps {
                 
                 }
             }
-        }
-    }
-}
+        
